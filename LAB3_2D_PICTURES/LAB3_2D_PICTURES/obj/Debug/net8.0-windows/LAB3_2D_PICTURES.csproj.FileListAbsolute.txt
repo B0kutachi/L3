@@ -1,0 +1,16 @@
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\bin\Debug\net8.0-windows\LAB3_2D_PICTURES.exe
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\bin\Debug\net8.0-windows\LAB3_2D_PICTURES.deps.json
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\bin\Debug\net8.0-windows\LAB3_2D_PICTURES.runtimeconfig.json
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\bin\Debug\net8.0-windows\LAB3_2D_PICTURES.dll
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\bin\Debug\net8.0-windows\LAB3_2D_PICTURES.pdb
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.Form1.resources
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.csproj.GenerateResource.cache
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.AssemblyInfoInputs.cache
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.AssemblyInfo.cs
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.csproj.CoreCompileInputs.cache
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.dll
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\refint\LAB3_2D_PICTURES.dll
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.pdb
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\LAB3_2D_PICTURES.genruntimeconfig.cache
+C:\Users\Kudesn1k\Desktop\proga\LAB3_2D_PICTURES\LAB3_2D_PICTURES\obj\Debug\net8.0-windows\ref\LAB3_2D_PICTURES.dll
