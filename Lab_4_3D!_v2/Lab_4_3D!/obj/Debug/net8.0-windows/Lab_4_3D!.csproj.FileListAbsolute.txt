@@ -1,0 +1,16 @@
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\bin\Debug\net8.0-windows\Lab_4_3D!.exe
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\bin\Debug\net8.0-windows\Lab_4_3D!.deps.json
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\bin\Debug\net8.0-windows\Lab_4_3D!.runtimeconfig.json
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\bin\Debug\net8.0-windows\Lab_4_3D!.dll
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\bin\Debug\net8.0-windows\Lab_4_3D!.pdb
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D_.GeniusForm.resources
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.csproj.GenerateResource.cache
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.AssemblyInfoInputs.cache
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.AssemblyInfo.cs
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.csproj.CoreCompileInputs.cache
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.dll
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\refint\Lab_4_3D!.dll
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.pdb
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\Lab_4_3D!.genruntimeconfig.cache
+C:\Users\Kudesn1k\Desktop\proga\Lab_4_3D!\Lab_4_3D!\obj\Debug\net8.0-windows\ref\Lab_4_3D!.dll
